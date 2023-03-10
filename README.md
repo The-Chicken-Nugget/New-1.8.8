@@ -4,6 +4,7 @@
 
 ## How do I use this?
 Basically, fork it, and then press the big Run button on Replit, and it will run your very own EaglercraftX (Eaglercraft 1.8) server!
+## [game](https://dgddgfg.github.io/New-1.8.8/web)
 
 ## What is it doing?
 It is probably compiling the latest, updated client for you. This may take a while (~15 minutes, maybe more)
