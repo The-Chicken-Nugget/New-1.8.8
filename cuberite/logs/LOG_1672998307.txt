@@ -1,0 +1,61 @@
+     [09:45:07] --- Started Log ---
+     [09:45:07] Cuberite Jenkins x86_64-linux-gnu -DCMAKE_BUILD_TYPE=Release (master) (id: #357)
+     [09:45:07] from commit b0376367562d6c2c9f69d3b16b3c62bf7c353c78 built at: Mon Dec 26 16:00:32 UTC 2022
+     [09:45:07] Creating new server instance...
+     [09:45:07] Reading server config...
+     [09:45:07] Starting server...
+Info [09:45:07] Compatible clients: 1.8.x-1.12.x
+Warn [09:45:07] WARNING: There is not a Proxy Forward Secret set up, and any proxy server can forward a player to this server unless closed from the internet.
+Info [09:45:07] Creating default ranks...
+Info [09:45:07] Default ranks created.
+     [09:45:07] Loaded 789 crafting recipes
+Warn [09:45:07] Cannot open file "Protocol/1.14.4/base.recipes.txt", no recipe book recipes will be available!
+Warn [09:45:07] Cannot open file "Protocol/1.13/base.recipes.txt", no recipe book recipes will be available!
+     [09:45:07] Loaded 1.12.2 380 recipe book
+     [09:45:07] Loaded 67 furnace recipes and 66 fuels
+     [09:45:07] Loaded 49 brewing recipes
+Warn [09:45:07] Failed to load scoreboard from "world/data/scoreboard.dat": basic_ios::clear: iostream error
+Warn [09:45:07] Cannot read world settings from "world/world.ini", defaults will be used.
+Info [09:45:07] Chosen a new random seed for world: 471790894
+Warn [09:45:08] Invalid biome ("BambooJungle") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+Warn [09:45:08] Invalid biome ("BambooJungleHills") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+     [09:45:08] -- Loading Plugins --
+     [09:45:08] [Core] Initialised!
+     [09:45:08] [ChatLog] Initialized ChatLog v.3
+     [09:45:08] -- Loaded 2 Plugins --
+     [09:45:09] Preparing spawn (world): 1.00% (4/400; 3.38 chunks / sec)
+     [09:45:10] Preparing spawn (world): 2.75% (11/400; 7.00 chunks / sec)
+     [09:45:11] Preparing spawn (world): 4.50% (18/400; 5.84 chunks / sec)
+     [09:45:12] Preparing spawn (world): 6.75% (27/400; 8.99 chunks / sec)
+     [09:45:13] Preparing spawn (world): 10.50% (42/400; 14.99 chunks / sec)
+     [09:45:15] Preparing spawn (world): 14.50% (58/400; 14.59 chunks / sec)
+     [09:45:16] Preparing spawn (world): 19.00% (76/400; 16.38 chunks / sec)
+     [09:45:17] Preparing spawn (world): 22.75% (91/400; 14.99 chunks / sec)
+     [09:45:18] Preparing spawn (world): 26.50% (106/400; 15.00 chunks / sec)
+     [09:45:19] Preparing spawn (world): 30.00% (120/400; 12.75 chunks / sec)
+     [09:45:20] Preparing spawn (world): 34.50% (138/400; 18.00 chunks / sec)
+     [09:45:21] Preparing spawn (world): 38.25% (153/400; 14.84 chunks / sec)
+     [09:45:22] Preparing spawn (world): 43.75% (175/400; 20.22 chunks / sec)
+     [09:45:23] Preparing spawn (world): 47.25% (189/400; 13.92 chunks / sec)
+     [09:45:24] Preparing spawn (world): 51.25% (205/400; 14.65 chunks / sec)
+     [09:45:25] Preparing spawn (world): 55.25% (221/400; 14.52 chunks / sec)
+     [09:45:26] Preparing spawn (world): 59.75% (239/400; 17.91 chunks / sec)
+     [09:45:27] Preparing spawn (world): 67.25% (269/400; 27.35 chunks / sec)
+     [09:45:28] Preparing spawn (world): 75.75% (303/400; 34.00 chunks / sec)
+     [09:45:29] Preparing spawn (world): 83.50% (334/400; 30.66 chunks / sec)
+     [09:45:30] Preparing spawn (world): 92.75% (371/400; 35.78 chunks / sec)
+Info [09:45:32] World "world":Generated spawnpoint position at {0, 63, 16}
+     [09:45:32] Startup complete, took 24761ms!
+     [09:47:04] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+     [09:47:04] Player "VoolEagl549" (6550510bffc63c47bba601849e45ffbe) save or statistics file not found, resetting to defaults
+Info [09:47:04] Player VoolEagl549 has joined the game
+     [09:48:58] Executing console command: "op VoolEagl549"
+     [09:48:58] Player "VoolEagl549" is now in rank Admin
+     [09:49:12] Player VoolEagl549 is executing command "/gamemode 1" in world "world" at world age 4844.
+     [09:49:12] [Core] Gamemode of VoolEagl549 set to creative by: VoolEagl549
+Info [09:50:20] Player VoolEagl549 has left the game
+     [09:52:04] Shutting down server...
+     [09:52:04] [Core] Disabling...
+     [09:52:04] Cleaning up...
+     [09:52:04] Shutdown successful!
+     [09:52:04] --- Stopped Log ---

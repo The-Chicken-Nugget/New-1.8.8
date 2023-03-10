@@ -1,0 +1,31 @@
+     [06:50:35] --- Started Log ---
+     [06:50:35] Cuberite Jenkins x86_64-linux-gnu -DCMAKE_BUILD_TYPE=Release (master) (id: #357)
+     [06:50:35] from commit b0376367562d6c2c9f69d3b16b3c62bf7c353c78 built at: Mon Dec 26 16:00:32 UTC 2022
+     [06:50:35] Creating new server instance...
+     [06:50:35] Reading server config...
+     [06:50:35] Starting server...
+Info [06:50:35] Compatible clients: 1.8.x-1.12.x
+Warn [06:50:35] WARNING: There is not a Proxy Forward Secret set up, and any proxy server can forward a player to this server unless closed from the internet.
+     [06:50:36] Loaded 789 crafting recipes
+Warn [06:50:36] Cannot open file "Protocol/1.14.4/base.recipes.txt", no recipe book recipes will be available!
+Warn [06:50:36] Cannot open file "Protocol/1.13/base.recipes.txt", no recipe book recipes will be available!
+     [06:50:36] Loaded 1.12.2 380 recipe book
+     [06:50:36] Loaded 67 furnace recipes and 66 fuels
+     [06:50:36] Loaded 49 brewing recipes
+Warn [06:50:36] Invalid biome ("BambooJungle") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+Warn [06:50:36] Invalid biome ("BambooJungleHills") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+     [06:50:36] -- Loading Plugins --
+     [06:50:36] [Core] Initialised!
+     [06:50:36] [ChatLog] Initialized ChatLog v.3
+     [06:50:36] -- Loaded 2 Plugins --
+     [06:50:37] Preparing spawn (world): 33.50% (134/400; 133.33 chunks / sec)
+     [06:50:38] Preparing spawn (world): 68.00% (272/400; 137.86 chunks / sec)
+     [06:50:39] Startup complete, took 3978ms!
+     [06:53:01] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+     [06:53:01] Player "DeevDarver919" (312dcf456ae53d67ac9c16e04b9c00f1) save or statistics file not found, resetting to defaults
+Info [06:53:01] Player DeevDarver919 has joined the game
+Warn [06:53:01] AddEntity: Entity at 0x7f5f0c035c60 (cPlayer, ID 81) spawning in a non-existent chunk.
+Info [06:54:44] Player DeevDarver919 has left the game
+     [06:57:23] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [06:57:23] Player VoolEagl549 has joined the game
+Warn [06:57:23] AddEntity: Entity at 0x7f5f0c035bc0 (cPlayer, ID 119) spawning in a non-existent chunk.

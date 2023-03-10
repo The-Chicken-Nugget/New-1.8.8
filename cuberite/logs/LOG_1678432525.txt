@@ -1,0 +1,26 @@
+     [07:15:25] --- Started Log ---
+     [07:15:25] Cuberite Jenkins x86_64-linux-gnu -DCMAKE_BUILD_TYPE=Release (master) (id: #357)
+     [07:15:25] from commit b0376367562d6c2c9f69d3b16b3c62bf7c353c78 built at: Mon Dec 26 16:00:32 UTC 2022
+     [07:15:25] Creating new server instance...
+     [07:15:25] Reading server config...
+     [07:15:25] Starting server...
+Info [07:15:25] Compatible clients: 1.8.x-1.12.x
+Warn [07:15:25] WARNING: There is not a Proxy Forward Secret set up, and any proxy server can forward a player to this server unless closed from the internet.
+     [07:15:25] Loaded 789 crafting recipes
+Warn [07:15:25] Cannot open file "Protocol/1.14.4/base.recipes.txt", no recipe book recipes will be available!
+Warn [07:15:25] Cannot open file "Protocol/1.13/base.recipes.txt", no recipe book recipes will be available!
+     [07:15:25] Loaded 1.12.2 380 recipe book
+     [07:15:25] Loaded 67 furnace recipes and 66 fuels
+     [07:15:25] Loaded 49 brewing recipes
+Warn [07:15:25] Invalid biome ("BambooJungle") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+Warn [07:15:25] Invalid biome ("BambooJungleHills") specified in AllowedBiomes in cubeset file Prefabs/SinglePieceStructures/JungleTemple.cubeset. Skipping the biome.
+     [07:15:25] -- Loading Plugins --
+     [07:15:26] [Core] Initialised!
+     [07:15:26] [ChatLog] Initialized ChatLog v.3
+     [07:15:26] -- Loaded 2 Plugins --
+     [07:15:27] Preparing spawn (world): 19.25% (77/400; 75.64 chunks / sec)
+     [07:15:28] Preparing spawn (world): 71.25% (285/400; 177.32 chunks / sec)
+     [07:15:28] Startup complete, took 3628ms!
+     [07:23:51] A player connected through a proxy without requiring a forwarding secret. If open to the internet, this is very insecure!
+Info [07:23:51] Player VoolEagl549 has joined the game
+Warn [07:23:52] AddEntity: Entity at 0x7f2e9803f7a0 (cPlayer, ID 81) spawning in a non-existent chunk.
